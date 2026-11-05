@@ -16,7 +16,7 @@ import pandas as pd
 import joblib
 
 # Configuración básica
-st.set_page_config(page_title="Hub Completo ML | TUCD UNdeC", page_icon="🤖")
+st.set_page_config(page_title="Hub Completo ML | Tecnicatura en Ciencia de Datos UNdeC", page_icon="🤖")
 
 # Rutas de archivos
 DIR_ACTUAL = Path(__file__).parent
